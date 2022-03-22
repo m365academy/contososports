@@ -1,8 +1,7 @@
-#Contoso Sports
+#Contoso Sports Website
 
-##Based on Parts Unlimited
 
 ###Deploy directly to Azure Subscription
 
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](
-https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FContosoSportsLeague%2Fhackathon-contososports%2Fmaster%2Farm%2Fdeploy.json)
+https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/m365academy/contososports/master/arm/deploy.json)
